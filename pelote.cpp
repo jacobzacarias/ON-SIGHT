@@ -21,7 +21,7 @@ public:
 };
 
 int main() {
-    Character anaya;  // Create an instance of the character Pelote
+    Character pelote;  // Create an instance of the character Pelote
 
     // Display Pelote's stats
     pelote.displayStats();
