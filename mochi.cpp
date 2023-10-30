@@ -21,7 +21,7 @@ public:
 };
 
 int main() {
-    Character anaya;  // Create an instance of the character Mochi
+    Character mochi;  // Create an instance of the character Mochi
 
     // Display Mochi's stats
     mochi.displayStats();
